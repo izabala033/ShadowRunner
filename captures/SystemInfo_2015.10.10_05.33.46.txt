@@ -1,0 +1,57 @@
+Applications Graphics Acceleration Info:
+Uptime: 61330988 Realtime: 139793212
+
+** Graphics info for pid 13617 [com.zenithgames.shadowrunner.android] **
+
+Recent DisplayList operations
+Save
+DrawRenderNode
+  DrawRenderNode
+  DrawRenderNode
+    DrawRenderNode
+      DrawRenderNode
+        DrawColor
+RestoreToCount
+DrawColor
+Save
+DrawRenderNode
+  DrawRenderNode
+  DrawRenderNode
+    DrawRenderNode
+      DrawRenderNode
+        DrawColor
+RestoreToCount
+DrawColor
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache                0 / 75497472
+  LayerCache                  0 / 50331648 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  8388608
+  GradientCache               0 /  1048576
+  PathCache                   0 / 33554432
+  TessellationCache           0 /  1048576
+  TextDropShadowCache         0 /  6291456
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8           0 /        0
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total        0 /        0
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  0 bytes, 0.00 MB
+
+Profile data in ms:
+
+	com.zenithgames.shadowrunner.android/com.zenithgames.shadowrunner.android.AndroidLauncher/android.view.ViewRootImpl@1e1b0b2a (visibility=0)
+View hierarchy:
+
+  com.zenithgames.shadowrunner.android/com.zenithgames.shadowrunner.android.AndroidLauncher/android.view.ViewRootImpl@1e1b0b2a
+  5 views, 4,71 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        5
+Total DisplayList:  4,71 kB
+
